@@ -1,0 +1,28 @@
+{
+  "name": "testapi_crisptag",
+  "version": "1.0.0",
+  "description": "Redirects you to google.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badbola/RedirectAPI.git"
+  },
+  "keywords": [
+    "Redirect",
+    "Googlr"
+  ],
+  "author": "Divyanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badbola/RedirectAPI/issues"
+  },
+  "homepage": "https://github.com/badbola/RedirectAPI#readme",
+  "dependencies": {
+    "fastify": "^3.3.0",
+    "nodemon": "^2.0.4"
+  }
+}
